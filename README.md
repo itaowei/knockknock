@@ -28,7 +28,7 @@ There are currently *twelve* ways to setup notifications:
 |            [Slack](#slack)            |                                             -                                             |
 |         [Telegram](#telegram)         |                                             -                                             |
 |  [Microsoft Teams](#microsoft-teams)  |                           [@noklam](https://github.com/noklam)                            |
-| [Text Message](<#text-message-(sms)>) |                 [@abhishekkrthakur](https://github.com/abhishekkrthakur)                  |
+| [Text Message](<#text-message-sms>) |                 [@abhishekkrthakur](https://github.com/abhishekkrthakur)                  |
 |          [Discord](#discord)          |                         [@watkinsm](https://github.com/watkinsm)                          |
 |   [Desktop](#desktop-notification)    | [@atakanyenel](https://github.com/atakanyenel) [@eyalmazuz](https://github.com/eyalmazuz) |
 |           [Matrix](#matrix)           |                           [@jcklie](https://github.com/jcklie)                            |
